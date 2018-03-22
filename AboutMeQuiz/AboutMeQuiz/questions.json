@@ -1,0 +1,22 @@
+[
+    {
+        "Prompt": "What is my age?",
+        "AnswerInt": 29
+    },
+    {
+        "Prompt": "What is my favorite color?",
+        "AnswerString": "green"
+    },
+    {
+        "Prompt": "Which number do I have?\na) 433-9469\nb) 837-5309\nc) 867-5309",
+        "AnswerString": "c"
+    },
+    {
+        "Prompt": "Which instrument do I play?\na) Keyboard\nb) Drums\nc) Didgeridoo",
+        "AnswerString": "b"
+    },
+    {
+        "Prompt": "How many miles would I walk?",
+        "AnswerInt": 500
+    }
+]
