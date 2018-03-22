@@ -38,5 +38,5 @@ for the end user.
 
 Screenshots
 -----------
-![Asking Questions](https://github.com/taylorjoshua88/Lab01-Exception-Handling/raw/master/assets/questionsScreenshot.jpg)
-![Answer Key](https://github.com/taylorjoshua88/Lab01-Exception-Handling/raw/master/assets/answerKey.jpg)
+![Asking Questions](https://github.com/taylorjoshua88/Lab01-Exception-Handling/raw/master/assets/questionsScreenshot.JPG)
+![Answer Key](https://github.com/taylorjoshua88/Lab01-Exception-Handling/raw/master/assets/answerKey.JPG)
